@@ -1,0 +1,16 @@
+.appdata
+AppData
+.cache
+.npm-cache
+.pnpm-home
+.pnpm-store
+.next
+node_modules
+dev-server*.log
+next-start*.log
+route-smoke.log
+START_WEBSITE.cmd
+ButtonLink.tsx
+SiteHeader.tsx
+logo.png
+logo.png.png
